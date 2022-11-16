@@ -12,3 +12,9 @@
 
 2022-11-16T10:31:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\noobeditz\wp-includes\class-wpdb.php on line 2187
 
+2022-11-16T10:34:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\noobeditz\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 124
+
+2022-11-16T10:38:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\noobeditz\wp-includes\class-wpdb.php on line 2187
+
+2022-11-16T10:41:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\noobeditz\wp-includes\class-wpdb.php on line 2187
+
